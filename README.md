@@ -11,3 +11,7 @@ Libraries/tools used:
 - Jung (http://jung.sourceforge.net/)
 - Gephi (https://gephi.org/)
 
+The main goal of this work was analyzing how users interact one each other according to a specific event (a hashtag) and getting some useful information about its relationships in the Twitter conversations. For example, this is interesting to identify which users are key when transmitting the information, which one are popular, how the informations flows, etc.
+ All of this, by using the multiagent systems theory. 
+
+The SMATwitter framework searchs a specific hashtag, retrieve its tweets associated and then it generates a user-relationship graph and it gets analyzed. 
