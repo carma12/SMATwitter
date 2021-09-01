@@ -12,7 +12,7 @@
         <dependency>
             <groupId>org.neo4j</groupId>
             <artifactId>neo4j</artifactId>
-            <version>2.2.3</version>
+            <version>3.5.0</version>
             <!--version>1.9.9</version-->
             <!--<version>3.0.4</version>-->
         </dependency>
